@@ -138,8 +138,8 @@ with gr.Blocks(css=css, theme=gr.themes.Ocean()) as dashboard:
         with gr.Column(scale=6):  # Stretched Gallery
             output = gr.Gallery(
                 label="Recommended Books",
-                columns=4,
-                rows=4,
+                columns=5,
+                rows=3,
                 height="auto",
                 object_fit="contain",
                 show_label=False

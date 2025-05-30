@@ -34,9 +34,9 @@ This is an AI-powered book recommender that uses:
 
 ![Screenshot](screenshots/1.png) 
 ---
-![Screenshot](screenshots/1.png) 
+![Screenshot](screenshots/2.png) 
 ---
-![Screenshot](screenshots/1.png) 
+![Screenshot](screenshots/3.png) 
 <br>
 
 

@@ -33,12 +33,11 @@ This is an AI-powered book recommender that uses:
 ## 📸 Screenshots
 
 ![Screenshot](screenshots/1.png) 
-<br>
+---
+![Screenshot](screenshots/1.png) 
+---
 ![Screenshot](screenshots/1.png) 
 <br>
-![Screenshot](screenshots/1.png) 
-<br>
-![Demo](screenshots/book_recommender.gif) 
 
 
 ---

@@ -1,6 +1,6 @@
 ## 📚 Semantic Book Recommender System using LLM
 
-![UI Screenshot](screenshots/1.png)
+![UI Screenshot](screenshots/2.png)
 
 > A smart and emotion-aware book recommendation system powered by **Large Language Models (LLMs)** and **semantic search**. Just describe your mood or a story idea, and get book suggestions tailored to your emotional tone and preferred genre!
 

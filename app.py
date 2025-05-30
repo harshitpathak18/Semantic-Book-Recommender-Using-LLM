@@ -11,7 +11,7 @@ load_dotenv()
 os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")
 
 # Load data
-books = pd.read_csv("books_with_emotion_scores.csv")
+books = pd.read_csv("data/books_with_emotion_scores.csv")
 books["large_thumbnail"] = books["thumbnail"] + "&fife=w800"
 books["large_thumbnail"] = np.where(
     books["large_thumbnail"].isna(), "cover-not-found.jpg", books["large_thumbnail"]
